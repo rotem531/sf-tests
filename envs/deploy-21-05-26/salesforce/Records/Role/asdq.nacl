@@ -1,11 +1,11 @@
-salesforce.Role asdasd {
+salesforce.Role asdq {
   caseAccessLevel = "Edit"
   contactAccessLevel = "Edit"
-  description = "tyliasimov"
+  description = "asdadadadadadadad"
   mayForecastManagerShare = false
-  name = "asdasd"
+  name = "asdq"
   opportunityAccessLevel = "Edit"
   parentRole = salesforce.Role.instance.CEO
-  fullName = "asdasd"
-  _alias = "asdasd"
+  fullName = "asdq"
+  _alias = "asdq"
 }
